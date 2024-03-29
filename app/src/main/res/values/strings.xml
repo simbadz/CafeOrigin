@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">CafeOrigin</string>
     <string name="cafe">Cafe</string>
+    <string name="greetings">Добро пожаловать!</string>
+    <string name="username_hint">Имя пользователя:</string>
+    <string name="password_hint">Пароль</string>
+    <string name="sign_in_button">Войти</string>
 </resources>
