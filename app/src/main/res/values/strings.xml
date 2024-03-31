@@ -14,13 +14,17 @@
     <string name="lemon">Лимон</string>
     <string name="chooseDrinkType">Выберите тип напитка</string>
     <string name="make_order">Сделать заказ</string>
+    <string name="name">Имя:</string>
+    <string name="drink">Напиток:</string>
+    <string name="drink_type">Тип напитка:</string>
+    <string name="additivies_label">Добавки:</string>
 
-    <array name="types_of_tea" >
+    <array name="types_of_tea">
         <item>Зеленый</item>
         <item>Черный</item>
     </array>
 
-    <array name="types_of_coffee" >
+    <array name="types_of_coffee">
         <item>Капучино</item>
         <item>Американо</item>
         <item>Латте</item>
